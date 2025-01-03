@@ -4,8 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class HardAssertEx {
-
-	//Push from Person1
+// Push from Person2
 	@Test(enabled = false)
 	public void m1() {
 		System.out.println("Step1");
