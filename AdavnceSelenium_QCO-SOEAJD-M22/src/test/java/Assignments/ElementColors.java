@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ElementColors {
  // push jan 03
-
+// pulling from Git
 	public static void main(String[] args) {
 		
 		WebDriver driver=new ChromeDriver();
